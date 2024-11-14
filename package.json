@@ -4,16 +4,32 @@
   "description": "bu bizning birinchi loyihamiz",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "train": "nodemon train.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Billy",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "ejs": "^3.1.10",
     "express": "^4.21.1",
+    "inquirer": "^12.1.0",
+    "moment": "^2.30.1",
     "mongoose": "^8.8.1",
+    "node-schedule": "^2.1.1",
+    "uuid": "^11.0.3",
+    "validator": "^13.12.0"
+  },
+  "devDependencies": {
     "nodemon": "^3.1.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bellyy98/reja.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bellyy98/reja/issues"
+  },
+  "homepage": "https://github.com/Bellyy98/reja#readme"
 }
