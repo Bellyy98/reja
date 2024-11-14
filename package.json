@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon server2.js",
+    "dev": "node server.js",
     "train": "nodemon train.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
