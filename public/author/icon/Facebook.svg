@@ -1,0 +1,17 @@
+<svg width="24.986328" height="21.608398" viewBox="0 0 24.9863 21.6084" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_6956">
+			<rect id="Icons-facebook" width="14.575342" height="12.604972" transform="translate(5.205566 4.502441)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<ellipse id="Ellipse 9" cx="12.493164" cy="10.804199" rx="12.493151" ry="10.804261" fill="#FFB400" fill-opacity="1.000000"/>
+	<rect id="Icons-facebook" width="14.575342" height="12.604972" transform="translate(5.205566 4.502441)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons-facebook" width="14.575342" height="12.604972" transform="translate(5.205566 4.502441)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons-facebook" width="14.575342" height="12.604972" transform="translate(5.205566 4.502441)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_6956)">
+		<path id="Vector" d="M13.7 11.59L15.22 11.59L15.83 9.49L13.7 9.49L13.7 8.44C13.7 7.9 13.7 7.39 14.92 7.39L15.83 7.39L15.83 5.62C15.63 5.6 14.88 5.55 14.09 5.55C12.44 5.55 11.27 6.42 11.27 8.02L11.27 9.49L9.45 9.49L9.45 11.59L11.27 11.59L11.27 16.05L13.7 16.05L13.7 11.59Z" fill="#2B2B2B" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

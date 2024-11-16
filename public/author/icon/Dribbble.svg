@@ -1,0 +1,29 @@
+<svg width="32.986328" height="29.608398" viewBox="0 0 32.9863 29.6084" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_2_476_dd" x="0.000000" y="0.000000" width="32.986328" height="29.608398" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip2_6906">
+			<rect id="Icons-dribbble" width="14.575342" height="12.604972" transform="translate(9.205566 4.501953)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g filter="url(#filter_2_476_dd)">
+		<ellipse id="Ellipse 9" cx="16.493164" cy="10.804199" rx="12.493151" ry="10.804261" fill="#FFB400" fill-opacity="1.000000"/>
+		<rect id="Icons-dribbble" width="14.575342" height="12.604972" transform="translate(9.205566 4.501953)" fill="#FFFFFF" fill-opacity="0"/>
+		<rect id="Icons-dribbble" width="14.575342" height="12.604972" transform="translate(9.205566 4.501953)" fill="#FFFFFF" fill-opacity="0"/>
+		<rect id="Icons-dribbble" width="14.575342" height="12.604972" transform="translate(9.205566 4.501953)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip2_6906)">
+			<path id="Vector" d="M21.34 10.58C21.29 9.75 20.96 8.95 20.38 8.29C20.21 8.45 20.02 8.6 19.83 8.75C19.22 9.18 18.54 9.54 17.81 9.8C17.91 9.99 18.01 10.16 18.09 10.33L18.09 10.33C18.11 10.38 18.14 10.43 18.16 10.48C19.08 10.39 20.05 10.42 20.99 10.53C21.11 10.54 21.23 10.56 21.34 10.58ZM15.64 6.66C16.23 7.38 16.78 8.13 17.28 8.9C18.02 8.65 18.63 8.33 19.13 7.98C19.3 7.85 19.46 7.72 19.61 7.58C18.74 6.94 17.63 6.6 16.49 6.6C16.2 6.6 15.92 6.62 15.64 6.66L15.64 6.66ZM11.78 9.75C12.2 9.74 12.61 9.72 13.02 9.68C14.02 9.61 15.01 9.46 15.98 9.25C15.47 8.49 14.92 7.75 14.33 7.03C13.71 7.3 13.16 7.68 12.72 8.15C12.28 8.62 11.96 9.16 11.78 9.75ZM12.71 13.44C12.95 13.15 13.26 12.81 13.67 12.45C14.55 11.66 15.59 11.06 16.8 10.72L16.84 10.71C16.74 10.52 16.64 10.35 16.55 10.19C15.43 10.47 14.26 10.64 13.09 10.73C12.52 10.78 12.01 10.8 11.63 10.8C11.63 11.76 12.01 12.7 12.71 13.44L12.71 13.44ZM18.31 14.69C18.08 13.67 17.75 12.67 17.32 11.7C16.11 12.08 15.14 12.64 14.39 13.3C14.09 13.57 13.82 13.86 13.59 14.17C14.43 14.71 15.44 15 16.49 15C17.11 15 17.73 14.9 18.31 14.7L18.31 14.69ZM19.45 14.13C20.4 13.5 21.04 12.59 21.26 11.57C21.06 11.53 20.8 11.48 20.51 11.45C19.87 11.37 19.22 11.36 18.58 11.43C18.94 12.31 19.23 13.21 19.45 14.13L19.45 14.13ZM16.49 16.05C13.13 16.05 10.41 13.7 10.41 10.8C10.41 7.9 13.13 5.55 16.49 5.55C19.84 5.55 22.56 7.9 22.56 10.8C22.56 13.7 19.84 16.05 16.49 16.05Z" fill="#2B2B2B" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>

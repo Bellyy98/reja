@@ -12,7 +12,7 @@ let user;
 fs.readFile("database/user.json", "utf8", (err, data) => {
   if(err){
     console.log("ERROR", err)
-  }else{
+  } else{
     user = JSON.parse(data)
   }
 })
@@ -39,8 +39,8 @@ app.set("view engine", "ejs");
 // });
 
 app.post("/create-item", (req, res) => {
-  console.log(req.body);
-  res.json({ test: "success" });
+  // console.log(req.body);
+  // res.json({ test: "success" });
 });
 
 app.get("/author", (req, res) => {
@@ -54,6 +54,6 @@ app.get("/", function (req, res) {
 
 const server = http.createServer(app);
 let PORT = 3000;
-server.listen(PORT, () => {
+server.listen(PORT, function() {
   console.log(`The server is running successfully on port: ${PORT}`);
 });
