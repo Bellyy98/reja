@@ -1,0 +1,19 @@
+<svg width="40.000000" height="40.000000" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_6624">
+			<rect id="Icons/Blog" width="18.000000" height="18.000000" transform="translate(11.000000 11.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<circle id="Ellipse 11" cx="20.000000" cy="20.000000" r="20.000000" fill="#F0F0F6" fill-opacity="1.000000"/>
+	<rect id="Icons/Blog" width="18.000000" height="18.000000" transform="translate(11.000000 11.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons/Blog" width="18.000000" height="18.000000" transform="translate(11.000000 11.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons/Blog" width="18.000000" height="18.000000" transform="translate(11.000000 11.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons/Blog" width="18.000000" height="18.000000" transform="translate(11.000000 11.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_6624)">
+		<path id="Vector" d="M26.75 12.5C15.5 12.5 14 23 13.25 27.5L14.74 27.5C15.24 25 16.49 23.62 18.5 23.37C21.5 23 23.75 20.37 24.5 18.12L23.37 17.37L24.12 16.62C24.87 15.87 25.62 14.75 26.75 12.5Z" fill="#767676" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<rect id="Rectangle 159" x="-27.000000" y="-33.000000" width="100.000000" height="100.000000" fill="#D9D9D9" fill-opacity="1.000000"/>
+	</g>
+</svg>
