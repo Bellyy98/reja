@@ -57,3 +57,66 @@ let PORT = 3000;
 server.listen(PORT, function() {
   console.log(`The server is running successfully on port: ${PORT}`);
 });
+
+
+
+
+console.log("==================")
+
+
+
+// function findMyLatterCount(latter, text) {
+//   const textByLatter = text.split("");
+//   let count = 0;
+//   for (let singleLatter of textByLatter) {
+//       if (singleLatter == latter) count++;
+//   }
+//   return count;
+// };
+// console.log(findMyLatterCount("p", "apple"))
+
+// "apple".split("p") [apple] 
+
+
+
+function findLatte(letter, text) {
+  let count = 0;
+  
+  for(const singleLatter of text) {
+    if (findLatte === singleLatter) {
+      count ++
+    }
+  }
+  return count
+}
+
+console.log(findLatte("e", "different"))
+
+
+// function findMyLatterCount(latter, text) {
+//   const textByLatter = text.split("");
+//   let count = 0;
+//   for (let singleLatter of textByLatter) {
+//       if (singleLatter == latter) count++;
+//   }
+//   if(!count) return "There is no this letter"
+//   return count;
+// };
+// console.log(findMyLatterCount("p", "apple"))
+// if(findMyLatterCount){
+//   console.log(Error)}
+
+
+function bizningText(latter, text) {
+let number = 0;
+
+for(let bizningHarf of text){
+  console.log(bizningHarf === latter)
+  if(bizningHarf === latter) {
+   number++
+  }
+}
+return number
+}
+
+console.log(bizningText("e","diference"))
