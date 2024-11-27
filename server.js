@@ -8,6 +8,7 @@ const connectionString = "mongodb+srv://Bekk1:9dPaJoBm119T8Vo1@cluster0.gwifw.mo
 mongodb.connect(connectionString, {useNewUrlParser: true, useUnifiedTopology: true}, (err, client) =>{
   if(err) {console.log("Error on connection MongoDB")}
   else{
+    console.log(client)
     console.log("MongoDB connection succed");
     module.exports = client;
   
